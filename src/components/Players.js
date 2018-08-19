@@ -1,51 +1,52 @@
+
 const players = [
     {
         name: "BR.jpg",
-        path: "./assets/aatrox.png"
+        path: "./assets/BR.jpg"
     },
     {
         name: "JS.jpg",
-        path: "./assets/bard.png"
+        path: "./assets/JS.jpg"
     },
     {
         name: "KAJ.jpg",
-        path: "./assets/Caitlyn.png"
+        path: "./assets/KAJ.jpg"
     },
     {
-        name: "Darius",
-        path: "./assets/Darius.png"
+        name: "Kobe",
+        path: "./assets/Kobe.jpg"
     },
     {
-        name: "Ekko",
-        path: "./assets/Ekko.png"
+        name: "LB.jpg",
+        path: "./assets/LB.jpg"
     },
     {
-        name: "Fiddlesticks",
-        path: "./assets/Fiddlesticks.png"
+        name: "LB2",
+        path: "./assets/LB2.jpg"
     },
     {
-        name: "Galio",
-        path: "./assets/Galio.png"
+        name: "LBJ.jpg",
+        path: "./assets/LBJ.jpg"
     },
     {
-        name: "Hecarim",
-        path: "./assets/Hecarim.png"
+        name: "LBJ2.jpg",
+        path: "./assets/LBJ2.jpg"
     },
     {
-        name: "Illaoi",
-        path: "./assets/Illaoi.png"
+        name: "MAGIC.jpg",
+        path: "./assets/MAGIC.jpg"
     },
     {
-        name: "Janna",
-        path: "./assets/Janna.png"
+        name: "MJ.jpg",
+        path: "./assets/MJ.jpg"
     },
     {
-        name: "Kaisa",
-        path: "./assets/Kaisa.png"
+        name: "MJ2.jpg",
+        path: "./assets/MJ2.jpg"
     },
     {
-        name: "Lee-Sin",
-        path: "./assets/LeeSin.png"
+        name: "Pistol.jpg",
+        path: "./assets/Pistol.jpg"
     },
 
 ]

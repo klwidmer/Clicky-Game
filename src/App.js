@@ -4,6 +4,8 @@ import './App.css';
 import Container from './components/Container';
 import Row from './components/Row';
 import Card from './components/Card';
+import Players from './components/Players';
+
 
 class App extends Component {
   render() {
@@ -15,6 +17,9 @@ class App extends Component {
         </header>
         <p className="App-intro">
           <code>Clicky Game</code> 
+      <div className="Players">
+          <img src={Players} className="App-logo" alt="Players" />
+          </div>
         </p>
         <Container>
           <Row>
